@@ -1,2 +1,2 @@
-# AAD-B2C-Hybrid
+# sfloggingpoc
 POC for logging and delegated permissions in Service Fabric
